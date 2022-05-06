@@ -1,0 +1,16 @@
+# Python stuff
+*.ipynb_checkpoints
+*.xlsx
+*__pycache__
+.pytest_cache
+*gurobi.log
+
+# PPTX temporary doc
+~$*
+
+# Mac file
+*DS_Store
+
+# Data
+*.pickle
+*.csv
