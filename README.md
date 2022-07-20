@@ -4,35 +4,41 @@ Note that the data is not directly available in the respository, however, links 
 For more information https://www.jonathancoignard.com/
 
 ## Coverpage:
-THÈSE Pour obtenir le grade de
-DOCTEUR DE LA COMMUNAUTÉ UNIVERSITÉ GRENOBLE ALPES 
+THÈSE Pour obtenir le grade de DOCTEUR DE LA COMMUNAUTÉ UNIVERSITÉ GRENOBLE ALPES 
+
 Spécialité : Génie Electrique
 
-Thèse dirigée par Raphaël CAIRE
-et Co-encadrée par Vincent DEBUSSCHERE, Stéphanie CHOLLET
+Thèse dirigée par Raphaël CAIRE et Co-encadrée par Vincent DEBUSSCHERE, Stéphanie CHOLLET
 
 préparée au sein du Laboratoire de Génie Electrique de Grenoble et du Laboratoire d’Informatique de Grenoble
 dans l’Ecole Doctorale d’Electronique, Electrotechnique, Automatique, Traitement du Signal (EEATS)
 
-**Energy Communities: Sharing Resources on the Distribution Grid**
+[**Energy Communities: Sharing Resources on the Distribution Grid**](#)
 
 Thèse soutenue publiquement le 14 octobre 2022
 devant le jury composé de :
 
 M. Bruno SARENI
 Professeur, Institut national polytechnique INP-ENSEEIHT, Rapporteur
+
 M. Pierre PINSON
 Professeur, Imperial College of London, Rapporteur
+
 M. Seddik BACHA
 Professeur, Université Grenoble Alpes (UGA), Examinateur
+
 M. Stéphane ROBIN
 Chargé de recherche, CNRS directeur du GAEL, Examinateur
+
 M. Raphaël CAIRE
 Maître de conférences HDR, Grenoble INP, Directeur de thèse
+
 Mme Stéphanie CHOLLET
 Maître de conférences HDR, Grenoble INP, Co-encadrante de thèse
+
 M. Vincent DEBUSSCHERE
 Maître de conférences HDR, Grenoble INP, Co-encadrant de thèse
+
 M. Loïc RAILLON
 Docteur, LANCEY Energy Storage, Invité
 
@@ -44,16 +50,16 @@ Local energy communities offer a place to rethink our view on energy consumption
 ## Jupyter notebooks table of content
 
 ### Chapitre 2
-- section 2.1 How to measure self-consumption?: https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/How%20to%20measure%20self%20consumption.ipynb
-- section 2.2 Do we need storage to self-consume?: https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/Do%20we%20need%20storage.ipynb
-- section 2.3 Can a few weeks represent a whole year?: https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/clustering.ipynb
-- section 2.4 What is the impact of load profiles on self-sufficiency?: https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/Natural%20self-sufficiency.ipynb
+- section 2.1 How to measure self-consumption?: [Notebook](https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/How%20to%20measure%20self%20consumption.ipynb)
+- section 2.2 Do we need storage to self-consume?: [Notebook](https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/Do%20we%20need%20storage.ipynb)
+- section 2.3 Can a few weeks represent a whole year?: [Notebook](https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/clustering.ipynb)
+- section 2.4 What is the impact of load profiles on self-sufficiency?: [Notebook](https://github.com/Jonathan56/supplementary_thesis/blob/master/2_chapter/Natural%20self-sufficiency.ipynb)
 
 ## Chapitre 3
-- section 3.4 What is the value of coalition?: https://github.com/Jonathan56/supplementary_thesis/blob/master/3_chapter/What%20is%20the%20coalition%20value.ipynb
+- section 3.4 What is the value of coalition?: [Notebook](https://github.com/Jonathan56/supplementary_thesis/blob/master/3_chapter/What%20is%20the%20coalition%20value.ipynb)
 
 ## Chapitre 4
-- 
+- section 4.2.2.1 Scalability of the proposed linear programming approach [Notebook](https://github.com/Jonathan56/supplementary_thesis/blob/master/4_chapter/scalability.ipynb)
 
 ## Contact
 https://www.jonathancoignard.com/
