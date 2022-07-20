@@ -200,7 +200,7 @@ def model_3(graph, start_training, end_training, horizon,
 
     regressors = [{"name": "pv_1kw", "prior_scale": scenario["PRIOR_GHI"]}]
 
-    for hour in range(0, 24):
+    for hour in range(0, 23):
         regressors.append({"name": f"h{hour}", "prior_scale": scenario["PRIOR_HOUR"]})
 
     nb_lag = list(range(1, scenario["NB_LAG"] + 1))
@@ -255,7 +255,7 @@ def calibrate(df, individuals, start_training, end_training, horizon, deltat, en
     graph["pv_1kw"] = df.loc[graph.index[0]:graph.index[-1], "pv_1kw"]
 
     graph["_datetime"] = graph.index
-    for hour in range(0, 24):
+    for hour in range(0, 23):
         graph[f"h{hour}"] = graph._datetime.apply(lambda x: 1.0 if x.hour == hour else 0)
     graph.drop(columns="_datetime", inplace=True)
 
