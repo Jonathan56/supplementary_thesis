@@ -3,7 +3,7 @@ This repository contains the code (as Jupyter notebooks) and data to reproduce a
 Note that the data is not directly available in the respository, however, links are provided towards the right resources.
 For more information https://www.jonathancoignard.com/
 
-## Coverpage:
+## Coverpage
 THÈSE Pour obtenir le grade de DOCTEUR DE LA COMMUNAUTÉ UNIVERSITÉ GRENOBLE ALPES 
 
 Spécialité : Génie Electrique
@@ -18,29 +18,14 @@ dans l’Ecole Doctorale d’Electronique, Electrotechnique, Automatique, Traite
 Thèse soutenue publiquement le 14 octobre 2022
 devant le jury composé de :
 
-M. Bruno SARENI
-Professeur, Institut national polytechnique INP-ENSEEIHT, Rapporteur
-
-M. Pierre PINSON
-Professeur, Imperial College of London, Rapporteur
-
-M. Seddik BACHA
-Professeur, Université Grenoble Alpes (UGA), Examinateur
-
-M. Stéphane ROBIN
-Chargé de recherche, CNRS directeur du GAEL, Examinateur
-
-M. Raphaël CAIRE
-Maître de conférences HDR, Grenoble INP, Directeur de thèse
-
-Mme Stéphanie CHOLLET
-Maître de conférences HDR, Grenoble INP, Co-encadrante de thèse
-
-M. Vincent DEBUSSCHERE
-Maître de conférences HDR, Grenoble INP, Co-encadrant de thèse
-
-M. Loïc RAILLON
-Docteur, LANCEY Energy Storage, Invité
+- *M. Bruno SARENI* Professeur, Institut national polytechnique INP-ENSEEIHT, Rapporteur
+- *M. Pierre PINSON* Professeur, Imperial College of London, Rapporteur
+- *M. Seddik BACHA* Professeur, Université Grenoble Alpes (UGA), Examinateur
+- *M. Stéphane ROBIN* Chargé de recherche, CNRS directeur du GAEL, Examinateur
+- *M. Raphaël CAIRE* Maître de conférences HDR, Grenoble INP, Directeur de thèse
+- *Mme Stéphanie CHOLLET* Maître de conférences HDR, Grenoble INP, Co-encadrante de thèse
+- *M. Vincent DEBUSSCHERE* Maître de conférences HDR, Grenoble INP, Co-encadrant de thèse
+- *M. Loïc RAILLON* Docteur, LANCEY Energy Storage, Invité
 
 ## Abstract
 Local energy communities offer a place to rethink our view on energy consumption, and although, those communities have always existed, they have recently gained momentum. From a regulatory perspective, since 2021, all member states of the European Union are required to implement renewable energy communities in their national law. Additionally, and at least in France, due to higher electricity prices, selling electricity to neighbors might prove to be more profitable than selling to a supplier at a regulated price. In a nutshell, local energy communities could be described as a group of neighbors selling electricity to each others. However, key to this definition is that communities are subject to a spatial limit preserving a proximity between members, as well as, a temporal limit ensuring that local energy production overlap with local consumption. This temporal limit is one of the principal challenge of communities, which justifies our scientific work in assessing coordination strategies to match local energy consumption with production. Our contribution is multi-fold: first, we bring a novel perspective on what is expected of coordination strategies for local energy communities, and how does it synergies with existing socio-economic coordination mechanisms. Second, we take a critical look at whether coordination is worth the investment, and the carbon footprint shift of communities. Third, we provide two actionable solutions for communities where coordination of flexible assets is relevant: a predictive, and reactive approach. While the predictive approach partially relies on a good knowledge of the future, the reactive approach relies on a good knowledge of the recent past. Our results show that both strategies perform well in a simulation environment. The reactive approach is in some way the “least bad” option. Although, it cannot achieve the minimum cost of the predictive approach under a perfect forecast, it is not subject to making poor decisions from erroneous forecasts. One of the main direction to extend the work carried throughout in this thesis will be to test the proposed coordination strategies in a real-world environment.
