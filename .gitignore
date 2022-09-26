@@ -15,6 +15,6 @@
 *.pickle
 *.csv
 archives/
-!./defense/house.pickle
-!./defense/pv.pickle
-!./defense/house_forecast_list.pickle
+!house.pickle
+!pv.pickle
+!house_forecast_list.pickle
