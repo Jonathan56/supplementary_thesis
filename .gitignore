@@ -18,3 +18,4 @@ archives/
 !house.pickle
 !pv.pickle
 !house_forecast_list.pickle
+.idea/*
